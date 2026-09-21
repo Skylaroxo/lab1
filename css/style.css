@@ -5,16 +5,16 @@
 }
 
 body{
-  font-family: Arial, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   line-height: 1.5;
-  color: #4e4e4e;
+  color: #383838;
   background: #f5f9ff;
 }
 
 header{
   padding: 20px;
   background: #b6daff;
-  color: #4e4e4e;
+  color: #383838;
   text-align: center;
 }
 
@@ -40,7 +40,7 @@ footer{
   margin-top: 24px;
   padding: 20px;
   background: #b6daff;
-  color: #4e4e4e;
+  color: #383838;
   text-align: center;
 }
 
