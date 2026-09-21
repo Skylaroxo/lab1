@@ -4,3 +4,23 @@
   box-sizing: border-box;
 }
 
+header {
+  padding: 20px;
+  background: #b6daff;
+  color: #4e4e4e;
+}
+
+.intro {
+  padding: 20px;
+}
+
+article {
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+footer {
+  margin-top: 24px;
+  background: #b6daff;
+  color: #4e4e4e;
+}
